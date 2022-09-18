@@ -2,6 +2,6 @@
 
 After cloning this repo in your local:
 
-> cd group_chat_app
-> python manage.py runserver
-> Navigate to: http://localhost:8000/ and start using the group-chat application!
+1. cd group_chat_app
+2. python manage.py runserver
+3. Navigate to: http://localhost:8000/ and start using the group-chat application!
